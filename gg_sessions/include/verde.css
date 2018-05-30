@@ -1,0 +1,52 @@
+html, body, #tot {
+				height: 100%;
+				width: 100%;
+				margin: 0;
+				background-color: #c2ffad;
+			}
+#cap{
+	height: 20%;
+	width: 100%;
+	background-color: #94ff70;
+}
+#login{
+	text-align: center;
+	border: 1px #c2ffad solid;
+}
+.alineat{
+	text-align: center;
+}
+#enlaces{
+	text-align: center;
+	vertical-align: top;
+}
+#pagina{
+	padding-left: 3%;
+	padding-right: 3%;
+	padding-top: 5%;
+	text-align: justify;
+}
+#cap, #formulari{
+	text-align: center;
+	vertical-align: bottom;
+	border: 1px #c2ffad solid;
+}
+#cap table{
+	width: 100%;
+	margin-left: auto;
+}
+#cos{
+	margin-left: 25%;
+	margin-right: 25%;
+	background-color: #a3ff85;
+	width: 50%;
+	height: 84%;
+	padding-bottom: 9%;
+}
+#peu{
+	border: 1px #c2ffad solid;
+	background-color: #c9ffb8;
+	width: 100%;
+	height: 10%;
+	text-align: center;
+}

@@ -1,0 +1,37 @@
+html, body{
+				height: 90%;
+				width: 100%;
+				text-align: center;
+				margin: 0;
+				background-color:   #d3eef9;
+			}
+#user, #desc, #correo{
+	color:    #4ca9e6;
+}
+#tipo{
+	color: #28cb2e;
+}
+div{
+	border: 1px #dbe8ee solid;
+	margin: 5%;
+	background-color: #a7d2c5;
+}
+#informe{
+	margin-top: 5%;
+	margin-bottom: 5%;
+	background-color: #b8e2d4;
+}
+.par{
+	border: 1px #5a6e79 solid;
+	margin-left: 2px;
+	background-color: #9ab9b1;
+}
+a{
+	text-decoration: none;
+	border: 1px black solid;
+    border-radius: 20%;
+}
+a:hover{
+		border: 1px blue solid;
+    border-radius: 20%;
+}
